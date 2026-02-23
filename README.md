@@ -28,17 +28,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### 📊 SYSTEM ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullsecph&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF0000&icon_color=0066FF&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullsecph&layout=compact&theme=tokyonight&hide_border=true&title_color=FF0000&text_color=ffffff" height="150" />
-</p>
-
----
-
-<p align="right">
-  <code>[ TERMINAL CLOSED ]</code>
-</p>
