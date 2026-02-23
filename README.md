@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=40&pause=1000&color=0038A8&center=true&vCenter=true&width=600&lines=NULLSECPH;0xNULLSECPH;PH+NULLSECPH+PH&color=CE1126" alt="NULLSECPH-ANIMATION" />
+  <img src="https://blog.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=flame-logo&text=NULLSECPH&doScale=true&scaleWidth=480&scaleHeight=120&fontsize=70&fillTextColor=%23CE1126&shadowColor=%230038A8&backgroundColor=%23000000" alt="NULLSECPH-FIRE" />
 </p>
 
 <p align="center">
@@ -34,10 +34,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</p>
-
----
-
-<p align="right">
-  <code>// SYSTEM STATUS: OPERATIONAL</code>
 </p>
