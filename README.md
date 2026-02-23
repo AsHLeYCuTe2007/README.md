@@ -43,11 +43,3 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### 📊 SYSTEM ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullsecph&show_icons=true&theme=tokyonight&title_color=CE1126&icon_color=0038A8&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullsecph&layout=compact&theme=tokyonight&title_color=CE1126&hide_border=true" height="160" />
-</p>
