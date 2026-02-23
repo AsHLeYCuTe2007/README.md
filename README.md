@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=flame-logo&text=NULLSECPH&doScale=true&scaleWidth=480&scaleHeight=120&fontsize=70&fillTextColor=%23CE1126&shadowColor=%230038A8&backgroundColor=%23000000" alt="NULLSECPH-FIRE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=45&pause=1000&color=CE1126&center=true&vCenter=true&width=600&lines=NULLSECPH&color=0038A8" alt="NULLSECPH" />
 </p>
 
 <p align="center">
