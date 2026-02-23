@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0038A8&height=150&section=header&text=NULLSECPH&fontSize=70&fontColor=CE1126&fontAlignY=40&animation=twinkle" alt="NULLSECPH-HEADER" />
+  <img src="https://img.shields.io/badge/--NULLSECPH--?style=for-the-badge&labelColor=0038A8&color=CE1126" width="400" height="60" alt="NULLSECPH" />
 </p>
 
 <p align="center">
@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REGION-PH-CE1126?style=flat-square&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/SECTOR-NULLSEC-0038A8?style=flat-square&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-white?style=flat-square&logo=lock&logoColor=black" />
+  <img src="https://img.shields.io/badge/PH-ROYAL_BLUE-0038A8?style=flat-square" />
+  <img src="https://img.shields.io/badge/PH-SCARLET_RED-CE1126?style=flat-square" />
 </p>
 
 ---
