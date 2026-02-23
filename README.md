@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=30&pause=1000&color=0038A8&center=true&vCenter=true&width=600&lines=NULLSECPH;PH+NULLSECPH+PH;0xNULLSECPH;SYSTEM+READY&color=CE1126" alt="NULLSECPH-ANIMATION" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=900&size=30&pause=1000&color=0038A8&center=true&vCenter=true&width=600&lines=NULLSECPH;NULLSECPH;0xNULLSECPH;SYSTEM+READY&color=CE1126" alt="NULLSECPH-ANIMATION" />
 </p>
 
 <p align="center">
