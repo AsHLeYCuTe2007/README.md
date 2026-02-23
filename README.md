@@ -31,8 +31,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nullsecph&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF0000&icon_color=0066FF" alt="Stats" />
-</p>
