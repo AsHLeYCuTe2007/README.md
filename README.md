@@ -1,5 +1,19 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/--NULLSECPH--?style=for-the-badge&labelColor=0038A8&color=CE1126" width="400" height="60" alt="NULLSECPH" />
+  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { font: bold 45px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; fill: #CE1126; }
+      .glitch { animation: glitch 1.5s infinite; }
+      @keyframes glitch {
+        0% { transform: translate(0); text-shadow: -3px -3px #0038A8, 3px 3px #CE1126; }
+        20% { transform: translate(-2px, 2px); text-shadow: 3px 3px #0038A8, -3px -3px #CE1126; }
+        40% { transform: translate(-2px, -2px); text-shadow: -3px 3px #0038A8, 3px -3px #CE1126; }
+        60% { transform: translate(2px, 2px); text-shadow: 3px -3px #0038A8, -3px 3px #CE1126; }
+        80% { transform: translate(2px, -2px); text-shadow: -3px -3px #0038A8, 3px 3px #CE1126; }
+        100% { transform: translate(0); text-shadow: -3px -3px #0038A8, 3px 3px #CE1126; }
+      }
+    </style>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text glitch">NULLSECPH</text>
+  </svg>
 </p>
 
 <p align="center">
@@ -7,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PH-ROYAL_BLUE-0038A8?style=flat-square" />
-  <img src="https://img.shields.io/badge/PH-SCARLET_RED-CE1126?style=flat-square" />
+  <img src="https://img.shields.io/badge/PH--BLUE-0038A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PH--RED-CE1126?style=for-the-badge" />
 </p>
 
 ---
@@ -32,7 +46,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### ⚡ FRAMEWORKS SECURITY
+### ⚡ FRAMEWORKS & SECURITY
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -40,5 +54,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
