@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&font=Press+Start+2P&height=120&color=0038A8&text=NULLSECPH&fontSize=50&fontColor=CE1126" alt="NULLSECPH-GLITCH" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0038A8&height=150&section=header&text=NULLSECPH&fontSize=70&fontColor=CE1126&fontAlignY=40&animation=twinkle" alt="NULLSECPH-HEADER" />
 </p>
 
 <p align="center">
