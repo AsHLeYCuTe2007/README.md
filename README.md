@@ -1,4 +1,5 @@
- # 0xNULLSECPH 
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=NULLSECPH;0xNULLSECPH;SYSTEM+READY...&color=0000FF" alt="Typing SVG" /></p>
+
 <p align="center">
   <img src="https://i.gifer.com/CnZY.gif" width="600" alt="Glitch Aesthetic Header">
 </p>
