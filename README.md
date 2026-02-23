@@ -51,16 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nullsecph&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullsecph&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
----
-
-### 📡 Connection Terminals
-<p align="left">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-</p>
-
-<p align="right">
-  <i>"Encrypt everything. Expect nothing." — nullsecph</i>
-</p>
