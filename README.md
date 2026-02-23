@@ -1,4 +1,4 @@
-# 0xNULLSECPH 
+ # 0xNULLSECPH 
 <p align="center">
   <img src="https://i.gifer.com/CnZY.gif" width="600" alt="Glitch Aesthetic Header">
 </p>
@@ -42,12 +42,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 System Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nullsecph&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullsecph&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
