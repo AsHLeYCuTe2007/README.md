@@ -6,15 +6,6 @@
   <img src="https://i.gifer.com/CnZY.gif" width="650" alt="Glitch Aesthetic Header">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-red?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/SECURITY-NULLSEC-0066FF?style=for-the-badge&labelColor=black" />
-</p>
-
----
-
-### 💻 TECHNICAL ARSENAL
-
 #### LANGUAGES
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
